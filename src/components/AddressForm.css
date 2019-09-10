@@ -1,0 +1,12 @@
+.address-form {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    flex-basis: 30%;
+}
+
+.address-form-input {
+    margin: .25rem;
+    padding: .25rem;
+    /* border: 1px solid #ddd; */
+}

@@ -1,0 +1,11 @@
+.individual-product {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 1rem;
+    text-align: left;
+}
+
+.flex-1-7 {
+    flex-basis: 14%;
+    text-align: left;
+}

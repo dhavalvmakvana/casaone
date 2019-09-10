@@ -1,0 +1,47 @@
+{
+    "billingAddress": {
+        "firstName": "Dhaval",
+        "secondName": "Makvana",
+        "addressLine1": "308, 1st Floor, 100 Feet Rd,",
+        "addressLine2": "Indira Nagar 1st Stage, Hoysala Nagar, Indiranagar,",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "zipCode": 560038,
+        "country": "India",
+        "orderDate": "04/02/2019"
+    },
+    "shippingAddress": {
+        "firstName": "Dhaval",
+        "secondName": "Makvana",
+        "addressLine1": "308, 1st Floor, 100 Feet Rd,",
+        "addressLine2": "Indira Nagar 1st Stage, Hoysala Nagar, Indiranagar,",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "zipCode": 560038,
+        "country": "India",
+        "expectedDeliveryDate": ""
+    },
+    "products": [
+        {
+            "productId": "1",
+            "productName": "product one",
+            "quantity": 3,
+            "price": 345,
+            "notes": "comment one"
+        },
+        {
+            "productId": "2",
+            "productName": "product two",
+            "quantity": 7,
+            "price": 100,
+            "notes": "comment two"
+        },
+        {
+            "productId": "3",
+            "productName": "product three",
+            "quantity": 1,
+            "price": 500,
+            "notes": "comment three"
+        }
+    ]
+}
